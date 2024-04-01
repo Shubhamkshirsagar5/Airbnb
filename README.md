@@ -1,4 +1,6 @@
-# Airbnb
+# Navigating and Data Collection of Airbnb
+#Listings: A Selenium WebDriver Approach
+
 This Python script employs the Selenium package to navigate and scrape data from Airbnb's
 website. The process is automated through a web driver that simulates a user browsing through
 property listings on Airbnb. Specifically, the script is designed to:
